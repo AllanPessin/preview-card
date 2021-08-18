@@ -35,8 +35,18 @@ body {
   border-radius: 10px;
 }
 
-img {
-  max-width: 100%;
+.img {
+  border-radius: 10px 10px 0 0;
+  background-color: rgba(157, 0, 255, 10%);
+  background: url('../images/image-header-mobile.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.overlay {
+  width: 337.5px;
+  height: 247.7px;
+  background-color: rgba(157, 0, 255, 30%);
   border-radius: 10px 10px 0 0;
 }
 
@@ -48,7 +58,6 @@ img {
   margin: 1.5rem 0 0 0;
 
   height: 208px;
-  /* font-size: 15px; */
 }
 
 b { 
@@ -70,7 +79,6 @@ b {
   flex-direction: column;
   justify-content: space-between;
   margin: 30px 0;
-  /* border: 1px solid red; */
   height: 100%;
 }
 
