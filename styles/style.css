@@ -52,6 +52,7 @@ body {
 .article {
   display: flex;
   flex-direction: column;
+  border: 10px solid transparent;
 
   padding: .5rem;
   margin: 1.5rem 0 0 0;
