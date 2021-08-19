@@ -1,15 +1,20 @@
-# Frontend Mentor - Preview Card 
+# Frontend Mentor - Stats preview card component
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+## [Link to website](https://preview-card-ten.vercel.app/)
 
-### Screenshot
-<br/>
+This is a solution to the [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) tend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Imagem da solução](https://github.com/AllanPessin/order-summary/blob/main/design/order-summary.jpg)
+## Screenshot
+
+#### Desktop
+![Imagem da solução desktop](https://github.com/AllanPessin/preview-card/blob/main/design/desktop-layout.jpg)
+
+#### Mobile
+![Imagem da solouçao mobile](https://github.com/AllanPessin/preview-card/blob/main/design/mobile-layout.jpg)
 
 ## My process
 
-- Primeiro a criação das tags html de forma semântica depois a estilização utilizando css puro e por ultimo adicionando os elementos de interação no componente.
+- Mobile First
 
 ### Built with
 
